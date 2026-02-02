@@ -52,8 +52,8 @@ Make sure FFmpeg is installed and available in PATH:
 ffmpeg -version
 ffprobe -version
 👉 If this works, you are good to go.
-
-📥 Installation
+---
+### 📥 Installation
 git clone https://github.com/your-username/video-crop-audio-swap.git
 cd video-crop-audio-swap
 
@@ -131,7 +131,7 @@ Video stream dominates size
 Audio size is small
 
 Controlled re-encoding prevents size explosion
-
+---
 🚀 Typical Workflow Example
 1️⃣ Upload Uncensored + Dubbed videos
 2️⃣ Check video lengths
@@ -140,7 +140,7 @@ Controlled re-encoding prevents size explosion
 5️⃣ Preview cropped result
 6️⃣ Click Swap Dubbed Audio → Uncensored
 7️⃣ Download final synced video
-
+---
 🗂 Output Files (Auto-generated)
 temp/
 ├── unc.mp4               # Original uncensored
