@@ -49,7 +49,6 @@ Python 3.9+
 
 Make sure FFmpeg is installed and available in PATH:
 
-```bash
 ffmpeg -version
 ffprobe -version
 👉 If this works, you are good to go.
